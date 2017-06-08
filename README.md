@@ -1,4 +1,6 @@
-# TalleresFRios
+# Talleres tecnológicos Smart Cities (Organizados por el Consorcio Fernando de los Ríos)
+
+# [Definición del proyecto](./Definicion_Proyecto.md)
 
 # [Sesiones](./sesiones.md)
 
